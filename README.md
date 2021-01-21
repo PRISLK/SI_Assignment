@@ -4,6 +4,8 @@ No. of responses received : 96
 
 Period of Data Collection : 3 Weeks
 
+ChiSquare Statistic and P-value test were used when testing the hypotheses derived at the end of the survey.
+
 # Questionnaire used in the survey
 
 1. Gender
