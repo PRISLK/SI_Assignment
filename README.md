@@ -1,6 +1,7 @@
 # SI_Assignment : Statistical Analysis on Mobile Banking App usage
 
 No. of responses received : 96
+
 Period of Data Collection : 3 Weeks
 
 # Questionnaire used in the survey
